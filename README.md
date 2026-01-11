@@ -326,9 +326,9 @@ Foundation in Computer Applications & Math.
 
 <br />
 
-<h3 align="center">🔥 <b>3D Contribution Graph</b></h3>
+<h3 align="center">🔥 <b>Contibution Analytics</b></h3>
 <div align="center">
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="github-metrics.svg" alt="God Level Metrics" width="100%" />
 </div>
 
 <br />
