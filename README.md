@@ -293,13 +293,7 @@ Foundation in Computer Applications & Math.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-
-
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=DhanushHebbar&theme=dark&hide_border=false" />
-
-
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
@@ -331,9 +325,7 @@ Foundation in Computer Applications & Math.
 
 <h3 align="center">🏆 <b>The Trophy Cabinet</b></h3>
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DDhanushHebbar%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="Trophy Cabinet" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=DhanushHebbar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Trophy Cabinet" />
 </div>
 
 <br />
