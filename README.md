@@ -147,16 +147,18 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
   
   <tr>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
-    </td>
-    <td align="left">
-      <table border="0">
-        <tr>
-          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" /><br />Git</td>
-          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" height="40" /><br />VS Code</td>
-        </tr>
-      </table>
-    </td>
+  <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</td>
+<td align="left">
+  <table border="0">
+    <tr>
+      <td align="center" width="60"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" /><br />Git</td>
+      <td align="center" width="60"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" height="40" /><br />VS Code</td>
+      <td align="center" width="60"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" height="40" /><br />Vercel</td>
+      <td align="center" width="60"><img src="https://cdn.simpleicons.org/render/33E9FF" width="40" height="40" /><br />Render</td>
+    </tr>
+  </table>
+</td>
   </tr>
 </table>
 </div>
