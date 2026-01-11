@@ -64,29 +64,17 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
 </td>
 <td align="center" width="45%" valign="top">
 
-🎧 <b>The Rhythm of Code</b>
+📈 <b>Code Analytics</b>
 
 <br /><br />
 
-<a href="https://github.com/DhanushHebbar">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushHebbar&theme=tokyonight&hide_border=true&background=0D1117&fire=FF4500&ring=FF4500&currStreakNum=FF4500&v=2" width="100%" />
-</a>
-
-<br />
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushHebbar&theme=tokyonight&hide_border=true&bg_color=0D1117&color=33E9FF&line=33E9FF&point=FFFFFF&area=true&hide_customizations=true&v=2" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushHebbar&theme=tokyonight&hide_border=true&bg_color=0D1117&color=33E9FF&line=33E9FF&point=FFFFFF&area=true&hide_customizations=true&v=3" width="100%" />
 </a>
 
 <br />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhanushHebbar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&v=2" width="100%" />
-</a>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&text_color=ffffff&v=2" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&text_color=ffffff&v=3" width="100%" />
 
 </td>
 </tr>
@@ -109,14 +97,14 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
 <h3>🎓 Education</h3>
 <ul>
 <li>
-<b>MCA (Pursuing)</b> 
+<b>MCA (Pursuing)</b> 
 <br />
 <i>Shree Devi Institute of Technology (2024 - 2026)</i>
 <br />
 Specializing in AI-Driven Software Architectures.
 </li>
 <li>
-<b>BCA (80.39%)</b> 
+<b>BCA (80.39%)</b> 
 <br />
 <i>Padua College of Commerce (2021 - 2024)</i>
 <br />
@@ -128,7 +116,7 @@ Foundation in Computer Applications & Math.
 <h3>💼 Experience</h3>
 <ul>
 <li>
-<b>Full Stack Developer Intern</b> 
+<b>Full Stack Developer Intern</b> 
 <br />
 <i>Zephyr Technologies (Mar 2024 - Apr 2024)</i>
 <br />
@@ -176,60 +164,60 @@ Foundation in Computer Applications & Math.
 </tr>
 </table>
 
-  <br />
-  
-  <details>
-    <summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
-    <br />
-    <ul>
-      <li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
-      <li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
-      <li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
-      <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
-    </ul>
-  </details>
+  <br />
+  
+  <details>
+    <summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
+    <br />
+    <ul>
+      <li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
+      <li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
+      <li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
+      <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
+    </ul>
+  </details>
 </td>
 <td width="20"></td>
 <td width="400" valign="top">
-    <h3 align="center">💰 Expense Tracker</h3>
-  <a href="https://github.com/DhanushHebbar/ExpenseTracker">
-    <img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
-  </a>
-  <br />
-  <b><i>"Secure. Visual. Insightful."</i></b>
-  <br />
-  Built with the **MERN Stack**, this dashboard features complex data visualization using Chart.js and bank-grade **JWT Authentication**.
-  <br />
-  <details>
-    <summary><b>⚙️ Tech Details</b></summary>
-    <ul>
-      <li><b>Security:</b> HttpOnly Cookies & JWT.</li>
-      <li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
-    </ul>
-  </details>
-  <br />
-  <div align="center">
-     <a href="https://github.com/DhanushHebbar/ExpenseTracker">
-      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-    </a>
-  </div>
-  
-  <br /><hr /><br />
+    <h3 align="center">💰 Expense Tracker</h3>
+  <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+    <img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
+  </a>
+  <br />
+  <b><i>"Secure. Visual. Insightful."</i></b>
+  <br />
+  Built with the **MERN Stack**, this dashboard features complex data visualization using Chart.js and bank-grade **JWT Authentication**.
+  <br />
+  <details>
+    <summary><b>⚙️ Tech Details</b></summary>
+    <ul>
+      <li><b>Security:</b> HttpOnly Cookies & JWT.</li>
+      <li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
+    </ul>
+  </details>
+  <br />
+  <div align="center">
+     <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </div>
+  
+  <br /><hr /><br />
 
-    <h3 align="center">📚 Vocab Builder</h3>
-  <a href="https://github.com/DhanushHebbar/VocabBuilder">
-    <img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
-  </a>
-  <br />
-  <b><i>"Gamified Learning."</i></b>
-  <br />
-  Leverages **Framer Motion** for 60FPS animations and local storage persistence for offline capability.
-  <br />
-  <div align="center">
-     <a href="https://github.com/DhanushHebbar/VocabBuilder">
-      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-    </a>
-  </div>
+    <h3 align="center">📚 Vocab Builder</h3>
+  <a href="https://github.com/DhanushHebbar/VocabBuilder">
+    <img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
+  </a>
+  <br />
+  <b><i>"Gamified Learning."</i></b>
+  <br />
+  Leverages **Framer Motion** for 60FPS animations and local storage persistence for offline capability.
+  <br />
+  <div align="center">
+     <a href="https://github.com/DhanushHebbar/VocabBuilder">
+      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </div>
 </td>
 
 
@@ -240,11 +228,11 @@ Foundation in Computer Applications & Math.
 <h3 align="center">📊 <b>GitHub Stats</b></h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=DhanushHebbar&theme=dark&hide_border=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhanushHebbar&theme=tokyonight&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br />
@@ -256,7 +244,7 @@ Foundation in Computer Applications & Math.
 
 <h3 align="center">🔝 <b>Top Contributed Repo</b></h3>
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=DhanushHebbar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=DhanushHebbar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 <br />
