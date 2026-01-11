@@ -88,9 +88,7 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 
 <br />
 
-<!-- THIS IS YOUR REAL GENERATED METRICS IMAGE -->
-
-<img src="github-metrics.svg" width="100%" alt="Real GitHub Metrics" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="100%" />
 
 </td>
 <td align="center" width="5%" valign="top">
@@ -293,8 +291,17 @@ Foundation in Computer Applications & Math.
 <h3 align="center">📊 <b>GitHub Stats</b></h3>
 
 <div align="center">
-<!-- Note: Ensure you have run the metrics.yml workflow for this file to appear -->
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+
+
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhanushHebbar&theme=dark&hide_border=false" />
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br />
