@@ -6,7 +6,7 @@ Architected by Dhanush Hebbar
 <!-- ANIMATED HEADER BACKGROUND -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,3,4,5,10,25%26height%3D350%26section%3Dheader%26text%3DDhanush%2520Hebbar%26fontSize%3D90%26fontAlign%3D50%26fontAlignY%3D35%26animation%3DfadeIn%26desc%3DArchitecting%2520Intelligence%2520%257C%2520Full%2520Stack%2520Engineer%2520%257C%2520AI%2520Integration%26descAlignY%3D60%26descAlign%3D50%26stroke%3D000000%26strokeWidth%3D2" width="100%" />
+<img src="assets/header.png" width="100%" alt="Cybernetic Architect Banner" />
 </div>
 
 <!-- DYNAMIC TYPING SVG - MULTI-LINE & FASTER -->
@@ -28,12 +28,6 @@ Architected by Dhanush Hebbar
 </a>
 <a href="https://github.com/DhanushHebbar">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26labelColor%3D101010" height="35" />
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite%26labelColor%3D101010" height="35" />
-</a>
-<a href="https://www.google.com/search?q=https://instagram.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite%26labelColor%3D101010" height="35" />
 </a>
 </div>
 
@@ -152,9 +146,79 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 </table>
 </div>
 
-<!-- PROJECTS SECTION - PREMIUM CARDS -->
+<!-- JOURNEY TIMELINE -->
 
-<h2 align="center">🚀 <b>Flagship Implementations</b></h2>
+<h2 align="center">🚀 <b>The Journey So Far</b></h2>
+
+<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 Education</h3>
+<ul>
+<li>
+<b>MCA (Pursuing)</b> 
+
+
+
+
+<i>Shree Devi Institute of Technology (2024 - 2026)</i>
+
+
+
+
+Specializing in AI-Driven Software Architectures.
+</li>
+<li>
+<b>BCA (80.39%)</b> 
+
+
+
+
+<i>Padua College of Commerce (2021 - 2024)</i>
+
+
+
+
+Foundation in Computer Applications & Math.
+</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>💼 Experience</h3>
+<ul>
+<li>
+<b>Full Stack Developer Intern</b> 
+
+
+
+
+<i>Zephyr Technologies (Mar 2024 - Apr 2024)</i>
+
+
+
+
+• Engineered robust web solutions optimizing API response.
+
+
+
+
+• Refactored legacy codebases for 20% better efficiency.
+
+
+
+
+• Collaborated in Agile sprints for rapid delivery.
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- PROJECTS SECTION - PREMIUM CARDS WITH DEEP DIVES -->
+
+<h2 align="center">🧬 <b>Flagship Implementations</b></h2>
 
 <div align="center">
 <table border="0">
@@ -163,7 +227,7 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 <h3 align="center">🧠 StudyForge: The AI Learning Revolution</h3>
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/StudyForge">
-<img src="https://www.google.com/search?q=https://via.placeholder.com/600x300/101020/61dafb%3Ftext%3DStudyForge%2BAI%2BDashboard%2Bv2.0" alt="StudyForge" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(97, 218, 251, 0.5);" />
+<img src="assets/studyforge.png" alt="StudyForge Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(97, 218, 251, 0.5);" />
 </a>
 </div>
 <br />
@@ -184,55 +248,69 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 <td>🔹 <b>Tech Stack</b></td>
 <td><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Firebase</code></td>
 </tr>
-<tr>
-<td>🔹 <b>Innovation</b></td>
-<td><b>IRT Engine</b> (Dynamic Difficulty) & <b>Anti-Hallucination</b> Grounding</td>
-</tr>
 </table>
-<br />
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/StudyForge">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Source_Code-238636%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-FF4500%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
-</a>
-</div>
+
+  <br />
+  
+  <details>
+    <summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
+    <br />
+    <ul>
+      <li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
+      <li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
+      <li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
+      <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
+    </ul>
+  </details>
+
+  <br />
+  <div align="center">
+    <a href="https://github.com/DhanushHebbar/StudyForge">
+      <img src="https://img.shields.io/badge/View_Source_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="#">
+       <img src="https://img.shields.io/badge/Live_Demo-FF4500?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </div>
 </td>
 <td width="20"></td>
 <td width="400" valign="top">
-<!-- EXPENSE TRACKER CARD -->
-<h3 align="center">💰 Expense Tracker</h3>
-<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/ExpenseTracker">
-<img src="https://www.google.com/search?q=https://via.placeholder.com/400x200/1e1e1e/4caf50%3Ftext%3DFinancial%2BAnalytics" width="100%" style="border-radius: 8px;" />
-</a>
-<br /><br />
-<b><i>"Secure. Visual. Insightful."</i></b>
-<br />
-Built with the MERN Stack, this dashboard features complex data visualization using Chart.js and bank-grade JWT Authentication.
-<br /><br />
-<div align="center">
-<code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node</code>
-</div>
-<br />
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/ExpenseTracker">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Repository-238636%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</div>
-
+  <!-- EXPENSE TRACKER CARD -->
+  <h3 align="center">💰 Expense Tracker</h3>
+  <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+    <img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
+  </a>
+  <br />
+  <b><i>"Secure. Visual. Insightful."</i></b>
+  <br />
+  Built with the **MERN Stack**, this dashboard features complex data visualization using Chart.js and bank-grade **JWT Authentication**.
+  <br />
+  <details>
+    <summary><b>⚙️ Tech Details</b></summary>
+    <ul>
+      <li><b>Security:</b> HttpOnly Cookies & JWT.</li>
+      <li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
+    </ul>
+  </details>
+  <br />
+  <div align="center">
+     <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </div>
+  
   <br /><hr /><br />
 
   <!-- VOCAB BUILDER CARD -->
   <h3 align="center">📚 Vocab Builder</h3>
   <a href="https://github.com/DhanushHebbar/VocabBuilder">
-    <img src="https://via.placeholder.com/400x200/2C2C54/A3CB38?text=Interactive+Learning" width="100%" style="border-radius: 8px;" />
+    <img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
   </a>
-  <br /><br />
+  <br />
   <b><i>"Gamified Learning."</i></b>
   <br />
   Leverages **Framer Motion** for 60FPS animations and local storage persistence for offline capability.
-  <br /><br />
+  <br />
   <div align="center">
      <a href="https://github.com/DhanushHebbar/VocabBuilder">
       <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
@@ -259,10 +337,8 @@ Built with the MERN Stack, this dashboard features complex data visualization us
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 
-<!-- Note: This requires the snake.yml workflow to be active in your repo -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://github.com/DhanushHebbar/DhanushHebbar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br />
