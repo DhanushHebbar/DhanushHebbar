@@ -242,9 +242,11 @@ Foundation in Computer Applications & Math.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=3" />
 </div>
 
-<h3 align="center">🔝 <b>Top Contributed Repo</b></h3>
+<h3 align="center">🏆 <b>Achievements</b></h3>
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=DhanushHebbar&limit=5&theme=dark&combine_all_yearly_contributions=true&v=3" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhanushHebbar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+</a>
 </div>
 
 <br />
