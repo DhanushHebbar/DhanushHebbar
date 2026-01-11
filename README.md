@@ -91,31 +91,58 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
       <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+      <table border="0">
+        <tr>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" /><br />React</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" height="40" /><br />Next.js</td>
+        </tr>
+      </table>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=python&logoColor=FFD43B" />
     </td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java&theme=dark" />
+      <table border="0">
+        <tr>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" /><br />Node.js</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" height="40" /><br />Express</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" height="40" /><br />Python</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="40" height="40" /><br />FastAPI</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" height="40" /><br />Java</td>
+        </tr>
+      </table>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
     </td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" />
+      <table border="0">
+        <tr>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" /><br />Postgres</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" height="40" /><br />MongoDB</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40" height="40" /><br />Firebase</td>
+        </tr>
+      </table>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
     </td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark" />
+      <table border="0">
+        <tr>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" /><br />Git</td>
+          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" height="40" /><br />VS Code</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
