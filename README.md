@@ -332,7 +332,7 @@ Foundation in Computer Applications & Math.
 <h3 align="center">🏆 <b>The Trophy Cabinet</b></h3>
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-profile-trophy.vercel.app/?username=DhanushHebbar%26theme=tokyonight%26no-frame=true%26no-bg=true%26margin-w=4" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DDhanushHebbar%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="Trophy Cabinet" />
 </a>
 </div>
 
