@@ -13,7 +13,7 @@ Architected by Dhanush Hebbar
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D30%26pause%3D1000%26color%3D33E9FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D900%26height%3D100%26lines%3DBuilding%2BNext-Gen%2BMicro-Modular%2BMonoliths%3BImplementing%2BAdvanced%2BRAG%2BPipelines%3BCrafting%2BScalable%2BMERN%2BArchitectures%3BMastering%2BFastAPI%2B%2526%2BReact%2BEcosystems%3BEngineering%2BHuman-Centric%2BAI%2BSolutions%3BTurning%2BCaffeine%2Binto%2BProduction%2BCode+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=33E9FF&center=true&vCenter=true&width=900&height=100&lines=Building+Next-Gen+Micro-Modular+Monoliths;Implementing+Advanced+RAG+Pipelines;Crafting+Scalable+MERN+Architectures;Mastering+FastAPI+%26+React+Ecosystems;Engineering+Human-Centric+AI+Solutions;Turning+Caffeine+into+Production+Code+☕" alt="Typing SVG" />
 </a>
 </div>
 
@@ -21,13 +21,13 @@ Architected by Dhanush Hebbar
 
 <div align="center">
 <a href="https://linkedin.com/in/dhanush-hebbar">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26labelColor%3D101010" height="35" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="35" />
 </a>
 <a href="mailto:dhanushhbbr22@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3D101010" height="35" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="35" />
 </a>
 <a href="https://github.com/DhanushHebbar">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26labelColor%3D101010" height="35" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="35" />
 </a>
 </div>
 
@@ -88,7 +88,7 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 
 <br />
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDhanushHebbar%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26count_private%3Dtrue%26include_all_commits%3Dtrue" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="100%" />
 
 </td>
 <td align="center" width="5%" valign="top">
@@ -98,12 +98,12 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 🎧 The Rhythm of Code
 
 <a href="https://github.com/DhanushHebbar">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDhanushHebbar%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26fire%3DFF4500%26ring%3DFF4500%26currStreakNum%3DFF4500" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushHebbar&theme=tokyonight&hide_border=true&background=0D1117&fire=FF4500&ring=FF4500&currStreakNum=FF4500" width="100%" />
 </a>
 
 <br /><br />
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDhanushHebbar%26layout%3Ddonut%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26langs_count%3D6" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="100%" />
 
 </td>
 </tr>
@@ -199,7 +199,7 @@ Foundation in Computer Applications & Math.
 <td width="600" valign="top">
 <h3 align="center">🧠 StudyForge: The AI Learning Revolution</h3>
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/StudyForge">
+<a href="https://github.com/DhanushHebbar/StudyForge">
 <img src="assets/studyforge.png" alt="StudyForge Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(97, 218, 251, 0.5);" />
 </a>
 </div>
@@ -332,7 +332,7 @@ Foundation in Computer Applications & Math.
 <h3 align="center">🏆 <b>The Trophy Cabinet</b></h3>
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DDhanushHebbar%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D10%26margin-h%3D10%26column%3D7" alt="Trophy Cabinet" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-profile-trophy.vercel.app/?username=DhanushHebbar%26theme=tokyonight%26no-frame=true%26no-bg=true%26margin-w=4" />
 </a>
 </div>
 
