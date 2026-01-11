@@ -23,9 +23,9 @@
 <br />
 
 <div align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td align="left" width="55%" valign="top">
+<td align="left" width="53%" valign="top">
 
 💫 <b>About Me</b>
 
@@ -60,7 +60,7 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
 <img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="100%" />
 
 </td>
-<td align="center" width="3%" valign="top">
+<td align="center" width="2%" valign="top">
 </td>
 <td align="center" width="45%" valign="top">
 
@@ -85,7 +85,7 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
 <p align="center"><i>"A craftsman is only as good as his tools."</i></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,fastapi,java,spring,postgres,mongodb,firebase,docker,git,linux,vscode&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,fastapi,java,spring,postgres,mongodb,firebase,docker,git,linux,vscode&perline=10&theme=dark" />
 </div>
 
 <h2 align="center">🚀 <b>The Journey So Far</b></h2>
@@ -97,14 +97,14 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
 <h3>🎓 Education</h3>
 <ul>
 <li>
-<b>MCA (Pursuing)</b> 
+<b>MCA (Pursuing)</b> 
 <br />
 <i>Shree Devi Institute of Technology (2024 - 2026)</i>
 <br />
 Specializing in AI-Driven Software Architectures.
 </li>
 <li>
-<b>BCA (80.39%)</b> 
+<b>BCA (80.39%)</b> 
 <br />
 <i>Padua College of Commerce (2021 - 2024)</i>
 <br />
@@ -116,7 +116,7 @@ Foundation in Computer Applications & Math.
 <h3>💼 Experience</h3>
 <ul>
 <li>
-<b>Full Stack Developer Intern</b> 
+<b>Full Stack Developer Intern</b> 
 <br />
 <i>Zephyr Technologies (Mar 2024 - Apr 2024)</i>
 <br />
@@ -135,9 +135,9 @@ Foundation in Computer Applications & Math.
 <h2 align="center">🧬 <b>Flagship Implementations</b></h2>
 
 <div align="center">
-<table border="0">
+<table border="0" width="100%">
 <tr>
-<td width="600" valign="top">
+<td width="58%" valign="top">
 <h3 align="center">🧠 StudyForge: The AI Learning Revolution</h3>
 <div align="center">
 <a href="https://github.com/DhanushHebbar/StudyForge">
@@ -164,60 +164,60 @@ Foundation in Computer Applications & Math.
 </tr>
 </table>
 
-  <br />
-  
-  <details>
-    <summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
-    <br />
-    <ul>
-      <li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
-      <li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
-      <li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
-      <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
-    </ul>
-  </details>
+  <br />
+  
+  <details>
+    <summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
+    <br />
+    <ul>
+      <li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
+      <li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
+      <li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
+      <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
+    </ul>
+  </details>
 </td>
-<td width="20"></td>
-<td width="400" valign="top">
-    <h3 align="center">💰 Expense Tracker</h3>
-  <a href="https://github.com/DhanushHebbar/ExpenseTracker">
-    <img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
-  </a>
-  <br />
-  <b><i>"Secure. Visual. Insightful."</i></b>
-  <br />
-  Built with the **MERN Stack**, this dashboard features complex data visualization using Chart.js and bank-grade **JWT Authentication**.
-  <br />
-  <details>
-    <summary><b>⚙️ Tech Details</b></summary>
-    <ul>
-      <li><b>Security:</b> HttpOnly Cookies & JWT.</li>
-      <li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
-    </ul>
-  </details>
-  <br />
-  <div align="center">
-     <a href="https://github.com/DhanushHebbar/ExpenseTracker">
-      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-    </a>
-  </div>
-  
-  <br /><hr /><br />
+<td width="2%"></td>
+<td width="40%" valign="top">
+    <h3 align="center">💰 Expense Tracker</h3>
+  <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+    <img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
+  </a>
+  <br />
+  <b><i>"Secure. Visual. Insightful."</i></b>
+  <br />
+  Built with the **MERN Stack**, this dashboard features complex data visualization using Chart.js and bank-grade **JWT Authentication**.
+  <br />
+  <details>
+    <summary><b>⚙️ Tech Details</b></summary>
+    <ul>
+      <li><b>Security:</b> HttpOnly Cookies & JWT.</li>
+      <li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
+    </ul>
+  </details>
+  <br />
+  <div align="center">
+      <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </div>
+  
+  <br /><hr /><br />
 
-    <h3 align="center">📚 Vocab Builder</h3>
-  <a href="https://github.com/DhanushHebbar/VocabBuilder">
-    <img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
-  </a>
-  <br />
-  <b><i>"Gamified Learning."</i></b>
-  <br />
-  Leverages **Framer Motion** for 60FPS animations and local storage persistence for offline capability.
-  <br />
-  <div align="center">
-     <a href="https://github.com/DhanushHebbar/VocabBuilder">
-      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-    </a>
-  </div>
+    <h3 align="center">📚 Vocab Builder</h3>
+  <a href="https://github.com/DhanushHebbar/VocabBuilder">
+    <img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
+  </a>
+  <br />
+  <b><i>"Gamified Learning."</i></b>
+  <br />
+  Leverages **Framer Motion** for 60FPS animations and local storage persistence for offline capability.
+  <br />
+  <div align="center">
+      <a href="https://github.com/DhanushHebbar/VocabBuilder">
+      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </div>
 </td>
 
 
