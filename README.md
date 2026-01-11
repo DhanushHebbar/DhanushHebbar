@@ -62,25 +62,31 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
 </td>
 <td align="center" width="3%" valign="top">
 </td>
-<td align="center" width="42%" valign="top">
+<td align="center" width="45%" valign="top">
 
 🎧 <b>The Rhythm of Code</b>
 
 <br /><br />
 
 <a href="https://github.com/DhanushHebbar">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushHebbar&theme=tokyonight&hide_border=true&background=0D1117&fire=FF4500&ring=FF4500&currStreakNum=FF4500" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushHebbar&theme=tokyonight&hide_border=true&background=0D1117&fire=FF4500&ring=FF4500&currStreakNum=FF4500&v=2" width="100%" />
 </a>
 
 <br />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushHebbar&theme=tokyonight&hide_border=true&bg_color=0D1117&color=33E9FF&line=33E9FF&point=FFFFFF&area=true&hide_customizations=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushHebbar&theme=tokyonight&hide_border=true&bg_color=0D1117&color=33E9FF&line=33E9FF&point=FFFFFF&area=true&hide_customizations=true&v=2" width="100%" />
 </a>
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&text_color=ffffff" width="100%" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhanushHebbar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&v=2" width="100%" />
+</a>
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&text_color=ffffff&v=2" width="100%" />
 
 </td>
 </tr>
