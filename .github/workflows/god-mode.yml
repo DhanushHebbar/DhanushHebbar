@@ -15,40 +15,46 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your Personal Access Token (Required for Private Repos)
-          token: ${{ secrets.METRICS_TOKEN }}
+          # 🚨 UPDATED: Matches your specific secret name
+          token: ${{ secrets.METRICS_TOKEN_1 }}
 
-          # Configuration
+          # 2. CONFIGURATION & RESUME FORMAT
           user: DhanushHebbar
           template: classic
+          # 'base' determines what sections are shown. 
+          # We REMOVED 'community' to hide the "0 stars/0 watching" clutter.
+          base: header, activity, repositories
           config_timezone: Asia/Kolkata
           filename: github-metrics.svg
           
-          # CLEANER LAYOUT (Resume Style)
-          # Removed 'community' and 'repositories' to hide the "0" stats
-          base: header, activity
-          config_order: base.header, isocalendar, languages, habits
+          # 3. VISUAL THEME (Neon/Cybernetic to match your profile)
+          config_theme: nightowl
           
-          # 1. ISOMETRIC CALENDAR (The 3D Visual)
+          # 4. PRIVATE STATS & CLEANUP
+          # This ensures the stats include your private work
+          repositories_affiliations: owner
+          repositories_batch: 100
+          
+          # 5. ISOMETRIC CALENDAR (The Centerpiece)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year 
+          plugin_isocalendar_duration: half-year # Half-year looks bigger and more detailed than full-year
           
-          # 2. CODING HABITS (Fixing the Error)
+          # 6. CODING HABITS (Fixing the "Unexpected Error")
           plugin_habits: yes
-          plugin_habits_from: 1000       # increased to catch older events
-          plugin_habits_days: 30         # look at last 30 days of activity
+          plugin_habits_from: 200
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_trim: yes        # hides low activity days
+          plugin_habits_trim: yes # Hides days with 0 activity
           
-          # 3. LANGUAGES (The Tech Stack Proof)
+          # 7. LANGUAGE RADAR (The Skills)
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: html, css, dockerfile, makefile, cmake
           plugin_languages_details: lines, percentage
-          plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
           
-          # 4. LINES OF CODE (Volume Metric)
+          # 8. LINES OF CODE (The Volume)
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
