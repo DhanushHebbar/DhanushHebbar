@@ -291,23 +291,29 @@ Foundation in Computer Applications & Math.
 <h3 align="center">📊 <b>GitHub Stats</b></h3>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
 
 
 
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhanushHebbar&theme=dark&hide_border=false" />
 
 
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br />
 
 <h3 align="center">✍️ <b>Random Dev Quote</b></h3>
 <div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <h3 align="center">🔝 <b>Top Contributed Repo</b></h3>
 <div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=DhanushHebbar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br />
@@ -339,7 +345,9 @@ Foundation in Computer Applications & Math.
 </div>
 
 <div align="center">
-
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=DhanushHebbar&icon=0&color=0" />
+</a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
