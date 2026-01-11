@@ -315,7 +315,7 @@ Foundation in Computer Applications & Math.
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 
 <div align="center">
-<img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/DhanushHebbar/DhanushHebbar/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br />
