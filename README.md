@@ -81,11 +81,44 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
 </table>
 </div>
 
-<h2 align="center">💻 <b>Tech Stack</b></h2>
+<h2 align="center">💻 <b>The Arsenal</b></h2>
 <p align="center"><i>"A craftsman is only as good as his tools."</i></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,fastapi,java,spring,postgres,mongodb,firebase,docker,git,linux,vscode&perline=10&theme=dark" />
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=python&logoColor=FFD43B" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align="center">🚀 <b>The Journey So Far</b></h2>
