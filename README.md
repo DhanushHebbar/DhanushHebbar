@@ -223,65 +223,64 @@ Foundation in Computer Applications & Math.
 </tr>
 </table>
 
-  <br />
-  
-  <details>
-    <summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
-    <br />
-    <ul>
-      <li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
-      <li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
-      <li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
-      <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
-    </ul>
-  </details>
+<br />
+
+<details>
+<summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
+<br />
+<ul>
+<li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
+<li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
+<li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
+<li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
+</ul>
+</details>
 </td>
 <td width="20"></td>
 <td width="400" valign="top">
-  <!-- EXPENSE TRACKER CARD -->
-  <h3 align="center">💰 Expense Tracker</h3>
-  <a href="https://github.com/DhanushHebbar/ExpenseTracker">
-    <img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
-  </a>
-  <br />
-  <b><i>"Secure. Visual. Insightful."</i></b>
-  <br />
-  Built with the **MERN Stack**, this dashboard features complex data visualization using Chart.js and bank-grade **JWT Authentication**.
-  <br />
-  <details>
-    <summary><b>⚙️ Tech Details</b></summary>
-    <ul>
-      <li><b>Security:</b> HttpOnly Cookies & JWT.</li>
-      <li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
-    </ul>
-  </details>
-  <br />
-  <div align="center">
-     <a href="https://github.com/DhanushHebbar/ExpenseTracker">
-      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-    </a>
-  </div>
-  
-  <br /><hr /><br />
+<!-- EXPENSE TRACKER CARD -->
+<h3 align="center">💰 Expense Tracker</h3>
+<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/ExpenseTracker">
+<img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
+</a>
+<br />
+<b><i>"Secure. Visual. Insightful."</i></b>
+<br />
+Built with the MERN Stack, this dashboard features complex data visualization using Chart.js and bank-grade JWT Authentication.
+<br />
+<details>
+<summary><b>⚙️ Tech Details</b></summary>
+<ul>
+<li><b>Security:</b> HttpOnly Cookies & JWT.</li>
+<li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
+</ul>
+</details>
+<br />
+<div align="center">
+<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/ExpenseTracker">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Repository-238636%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+</a>
+</div>
 
-  <!-- VOCAB BUILDER CARD -->
-  <h3 align="center">📚 Vocab Builder</h3>
-  <a href="https://github.com/DhanushHebbar/VocabBuilder">
-    <img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
-  </a>
-  <br />
-  <b><i>"Gamified Learning."</i></b>
-  <br />
-  Leverages **Framer Motion** for 60FPS animations and local storage persistence for offline capability.
-  <br />
-  <div align="center">
-     <a href="https://github.com/DhanushHebbar/VocabBuilder">
-      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-    </a>
-  </div>
+<br /><hr /><br />
+
+<!-- VOCAB BUILDER CARD -->
+
+<h3 align="center">📚 Vocab Builder</h3>
+<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/VocabBuilder">
+<img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
+</a>
+<br />
+<b><i>"Gamified Learning."</i></b>
+<br />
+Leverages Framer Motion for 60FPS animations and local storage persistence for offline capability.
+<br />
+<div align="center">
+<a href="https://www.google.com/search?q=https://github.com/DhanushHebbar/VocabBuilder">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Repository-238636%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+</a>
+</div>
 </td>
-
-
 </tr>
 </table>
 </div>
@@ -312,10 +311,22 @@ Foundation in Computer Applications & Math.
 
 <br />
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
+<!-- 3D CONTRIBUTION GRAPH -->
 
+<h3 align="center">🔥 <b>Contribution Graph 3D</b></h3>
 <div align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/DhanushHebbar/DhanushHebbar/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/DhanushHebbar/DhanushHebbar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<br />
+
+<!-- TROPHY CABINET -->
+
+<h3 align="center">🏆 <b>The Trophy Cabinet</b></h3>
+<div align="center">
+<a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DDhanushHebbar%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D10%26margin-h%3D10%26column%3D7" />
+</a>
 </div>
 
 <br />
