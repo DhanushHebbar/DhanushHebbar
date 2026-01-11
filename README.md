@@ -312,11 +312,11 @@ Foundation in Computer Applications & Math.
 
 <br />
 
-<!-- CLEANER ACTIVITY GRAPH (No 3D/Snake) -->
+<!-- 3D CONTRIBUTION GRAPH -->
 
-<h3 align="center">📅 <b>Contribution History</b></h3>
+<h3 align="center">🔥 <b>3D Contribution Graph</b></h3>
 <div align="center">
-<img src="https://www.google.com/search?q=https://ghchart.rshah.org/DhanushHebbar" alt="Dhanush Hebbar's Github Chart" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br />
