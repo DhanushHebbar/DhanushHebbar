@@ -321,25 +321,4 @@ Foundation in Computer Applications & Math.
 
 <br />
 
-<!-- TROPHY CABINET -->
-
-<h3 align="center">🏆 <b>The Trophy Cabinet</b></h3>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DhanushHebbar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Trophy Cabinet" />
-</div>
-
-<br />
-
-<!-- FOOTER WITH ANIMATED SIGNATURE -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,3,4,5,10,25%26height%3D120%26section%3Dfooter%26text%3DLet%27s%2520Build%2520The%2520Future%2520Together%26fontSize%3D30%26animation%3DfadeIn%26fontAlignY%3D40" width="100%" />
-</div>
-
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=DhanushHebbar&icon=0&color=0" />
-</a>
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
