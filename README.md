@@ -1,5 +1,5 @@
 <!--
-PREMIUM ULTRA MAX GOD LEVEL GITHUB PROFILE
+GITHUB PROFILE
 Architected by Dhanush Hebbar
 -->
 
@@ -82,68 +82,43 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 </table>
 </div>
 
-<!-- THE ARSENAL SECTION - MASSIVE GRID -->
+<!-- THE ARSENAL SECTION - VISUAL & RESPONSIVE -->
 
 <h2 align="center">⚔️ <b>The Technical Arsenal</b> ⚔️</h2>
 <p align="center"><i>"A craftsman is only as good as his tools."</i></p>
 
 <div align="center">
-<table align="center">
-<tr>
-<td align="center" width="140">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 
+Core Languages
 
+Frontend Ecosystem
 
- <b>Languages</b>
-</td>
-<td align="center" width="140">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/L0qm1I70qC5I1j2dbE/giphy.gif" width="35"> 
+Backend Infrastructure
 
+AI & Data Science
 
+DevOps & Tooling
 
- <b>Frontend</b>
-</td>
-<td align="center" width="140">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> 
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,js,c,cpp,ts%26theme%3Ddark%26perline%3D3" width="100" />
 
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,html,css,tailwind,redux,nextjs,vite,figma,framer%26theme%3Ddark%26perline%3D3" width="100" />
 
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,fastapi,postgres,mongodb,firebase,graphql,redis%26theme%3Ddark%26perline%3D3" width="100" />
 
- <b>Backend</b>
-</td>
-<td align="center" width="140">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/LnQjpWaON8iy8t8oWb/giphy.gif" width="35"> 
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,sklearn,pandas,numpy,opencv,anaconda,matlab%26theme%3Ddark%26perline%3D3" width="100" />
 
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,vercel,postman,docker,linux,bash%26theme%3Ddark%26perline%3D3" width="100" />
 
+Python • Java • JS • C
 
- <b>AI & Data</b>
-</td>
-<td align="center" width="140">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/26tn33ai01UfQN36K/giphy.gif" width="35"> 
+React • Next.js • Tailwind
 
+Node • FastAPI • Postgres
 
+TensorFlow • PyTorch
 
- <b>DevOps & Tools</b>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,js,c,cpp,ts%26theme%3Ddark%26perline%3D3" />
-</td>
-<td align="center" valign="top">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,html,css,tailwind,redux,nextjs,vite,figma,framer%26theme%3Ddark%26perline%3D3" />
-</td>
-<td align="center" valign="top">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,fastapi,postgres,mongodb,firebase,graphql,redis%26theme%3Ddark%26perline%3D3" />
-</td>
-<td align="center" valign="top">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,sklearn,pandas,numpy,opencv,anaconda,matlab%26theme%3Ddark%26perline%3D3" />
-</td>
-<td align="center" valign="top">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,vercel,postman,docker,linux,bash%26theme%3Ddark%26perline%3D3" />
-</td>
-</tr>
-</table>
+Git • Docker • Linux
+
 </div>
 
 <!-- JOURNEY TIMELINE -->
