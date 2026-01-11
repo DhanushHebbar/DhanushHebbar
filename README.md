@@ -92,10 +92,23 @@ I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, Indi
     </td>
     <td align="left">
       <table border="0">
-        <tr>
-          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" /><br />React</td>
-          <td align="center" width="60"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" height="40" /><br />Next.js</td>
-        </tr>
+       <tr>
+  <td align="center" width="60">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" /><br />HTML
+  </td>
+  <td align="center" width="60">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" /><br />CSS
+  </td>
+  <td align="center" width="60">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" /><br />JavaScript
+  </td>
+  <td align="center" width="60">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" /><br />Tailwind
+  </td>
+  <td align="center" width="60">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" /><br />React
+  </td>
+</tr>
       </table>
     </td>
   </tr>
