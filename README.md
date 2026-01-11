@@ -312,11 +312,22 @@ Foundation in Computer Applications & Math.
 
 <br />
 
-<!-- 3D CONTRIBUTION GRAPH (LINKED TO YOUR WORKFLOW OUTPUT) -->
+<!-- 3D CONTRIBUTION GALLERY -->
 
-<h3 align="center">🔥 <b>Contribution Graph 3D</b></h3>
+<h3 align="center">🔥 <b>3D Contribution Views</b></h3>
 <div align="center">
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<table>
+<tr>
+<td align="center"><img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Night Rainbow" width="300" /></td>
+<td align="center"><img src="profile-3d-contrib/profile-green-animate.svg" alt="Green Animate" width="300" /></td>
+<td align="center"><img src="profile-3d-contrib/profile-season-animate.svg" alt="Season Animate" width="300" /></td>
+</tr>
+<tr>
+<td align="center"><img src="profile-3d-contrib/profile-night-view.svg" alt="Night View" width="300" /></td>
+<td align="center"><img src="profile-3d-contrib/profile-night-green.svg" alt="Night Green" width="300" /></td>
+<td align="center"><img src="profile-3d-contrib/profile-south-season-animate.svg" alt="South Season" width="300" /></td>
+</tr>
+</table>
 </div>
 
 <br />
