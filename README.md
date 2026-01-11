@@ -1,5 +1,5 @@
 <!--
- GITHUB PROFILE
+PREMIUM ULTRA MAX GOD LEVEL GITHUB PROFILE
 Architected by Dhanush Hebbar
 -->
 
@@ -262,16 +262,6 @@ Foundation in Computer Applications & Math.
       <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
     </ul>
   </details>
-
-  <br />
-  <div align="center">
-    <a href="https://github.com/DhanushHebbar/StudyForge">
-      <img src="https://img.shields.io/badge/View_Source_Code-238636?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="#">
-       <img src="https://img.shields.io/badge/Live_Demo-FF4500?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-  </div>
 </td>
 <td width="20"></td>
 <td width="400" valign="top">
