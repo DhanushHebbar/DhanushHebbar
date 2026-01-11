@@ -291,23 +291,29 @@ Foundation in Computer Applications & Math.
 <h3 align="center">📊 <b>GitHub Stats</b></h3>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
 
 
 
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhanushHebbar&theme=dark&hide_border=false" />
 
 
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br />
 
 <h3 align="center">✍️ <b>Random Dev Quote</b></h3>
 <div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <h3 align="center">🔝 <b>Top Contributed Repo</b></h3>
 <div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=DhanushHebbar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br />
@@ -326,7 +332,7 @@ Foundation in Computer Applications & Math.
 <h3 align="center">🏆 <b>The Trophy Cabinet</b></h3>
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DDhanushHebbar%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D10%26margin-h%3D10%26column%3D7" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-profile-trophy.vercel.app/?username=DhanushHebbar%26theme=tokyonight%26no-frame=true%26no-bg=true%26margin-w=10%26margin-h=10%26column=7" alt="Trophy Cabinet" />
 </a>
 </div>
 
@@ -339,7 +345,9 @@ Foundation in Computer Applications & Math.
 </div>
 
 <div align="center">
-
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=DhanushHebbar&icon=0&color=0" />
+</a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
