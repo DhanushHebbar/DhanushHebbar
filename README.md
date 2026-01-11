@@ -316,7 +316,7 @@ Foundation in Computer Applications & Math.
 
 <h3 align="center">🔥 <b>Contribution Graph 3D</b></h3>
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/DhanushHebbar/DhanushHebbar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br />
