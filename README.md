@@ -1,7 +1,6 @@
 <!--
 PREMIUM ULTRA MAX GOD LEVEL GITHUB PROFILE
 Architected by Dhanush Hebbar
-Refined for Maximum Velocity
 -->
 
 <!-- ANIMATED HEADER BACKGROUND -->
@@ -10,17 +9,13 @@ Refined for Maximum Velocity
 <img src="assets/header.png" width="100%" alt="Cybernetic Architect Banner" />
 </div>
 
-<br />
-
-<!-- DYNAMIC TYPING SVG - RE-RHYTHMED FOR IMPACT -->
+<!-- DYNAMIC TYPING SVG - MULTI-LINE & FASTER -->
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D30%26pause%3D1000%26color%3D7AA2F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D1000%26height%3D80%26lines%3DBuilding%2BNext-Gen%2BMicro-Modular%2BMonoliths%3BImplementing%2BAdvanced%2BRAG%2BPipelines%3BCrafting%2BScalable%2BMERN%2BArchitectures%3BMastering%2BFastAPI%2B%2526%2BReact%2BEcosystems%3BEngineering%2BHuman-Centric%2BAI%2BSolutions%3BTurning%2BCaffeine%2Binto%2BProduction%2BCode+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=33E9FF&center=true&vCenter=true&width=900&height=100&lines=Building+Next-Gen+Micro-Modular+Monoliths;Implementing+Advanced+RAG+Pipelines;Crafting+Scalable+MERN+Architectures;Mastering+FastAPI+%26+React+Ecosystems;Engineering+Human-Centric+AI+Solutions;Turning+Caffeine+into+Production+Code+☕" alt="Typing SVG" />
 </a>
 </div>
-
-<br />
 
 <!-- SOCIALS BADGES - GLOWING STYLE -->
 
@@ -37,12 +32,11 @@ Refined for Maximum Velocity
 </div>
 
 <br />
-<br />
 
 <!-- MASTER GRID LAYOUT -->
 
 <div align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="left" width="55%" valign="top">
 
@@ -50,27 +44,45 @@ Refined for Maximum Velocity
 
 "Code is poetry written for machines, but designed for humans."
 
-<br />
+
+
+
 
 I am an MCA Candidate and Full Stack Specialist operating out of Mangaluru, India. I don't simply write software; I architect resilient, scalable systems that bridge the chasm between traditional web engineering and the frontier of Artificial Intelligence.
 
-<br />
+
+
+
 
 🔭 Current Mission: Scaling StudyForge into a global EdTech standard.
 
-<br />
+
+
+
 
 🧠 Core Philosophy: Domain-Driven Design (DDD) & Clean Architecture.
 
-<br />
+
+
+
 
 🤝 Open Collaboration: Seeking advanced AI/ML, SaaS, & Open Source challenges.
 
-<br />
+
+
+
 
 🏆 Hall of Fame:
 
+
+
+
+
 1st Prize @ Shark Tank (SDM College) - Innovation Excellence
+
+
+
+
 
 GDG 2025 Vertex AI & Agentic AI Specialist
 
@@ -85,25 +97,18 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 
 🎧 The Rhythm of Code
 
-<div align="center">
 <a href="https://github.com/DhanushHebbar">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushHebbar&theme=tokyonight&hide_border=true&background=0D1117&fire=FF4500&ring=FF4500&currStreakNum=FF4500" width="100%" />
 </a>
-</div>
 
 <br /><br />
 
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" width="100%" />
-</div>
 
 </td>
 </tr>
 </table>
 </div>
-
-<br />
-<br />
 
 <!-- THE ARSENAL SECTION - VISUAL & RESPONSIVE -->
 
@@ -111,19 +116,8 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 <p align="center"><i>"A craftsman is only as good as his tools."</i></p>
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,ts,java,cpp%26perline%3D10" />
-<br /><br />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,fastapi,nodejs,express%26perline%3D10" />
-<br /><br />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfirebase,postgres,mongodb,docker,git%26perline%3D10" />
-<br /><br />
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode,postman,figma,vercel,linux%26perline%3D10" />
-</a>
-</div>
 
-<br />
-<br />
+</div>
 
 <!-- JOURNEY TIMELINE -->
 
@@ -136,18 +130,29 @@ GDG 2025 Vertex AI & Agentic AI Specialist
 <h3>🎓 Education</h3>
 <ul>
 <li>
-<b>MCA (Pursuing)</b>
-<br />
+<b>MCA (Pursuing)</b> 
+
+
+
+
 <i>Shree Devi Institute of Technology (2024 - 2026)</i>
-<br />
+
+
+
+
 Specializing in AI-Driven Software Architectures.
 </li>
-<br />
 <li>
-<b>BCA (80.39%)</b>
-<br />
+<b>BCA (80.39%)</b> 
+
+
+
+
 <i>Padua College of Commerce (2021 - 2024)</i>
-<br />
+
+
+
+
 Foundation in Computer Applications & Math.
 </li>
 </ul>
@@ -156,14 +161,26 @@ Foundation in Computer Applications & Math.
 <h3>💼 Experience</h3>
 <ul>
 <li>
-<b>Full Stack Developer Intern</b>
-<br />
+<b>Full Stack Developer Intern</b> 
+
+
+
+
 <i>Zephyr Technologies (Mar 2024 - Apr 2024)</i>
-<br />
+
+
+
+
 • Engineered robust web solutions optimizing API response.
-<br />
+
+
+
+
 • Refactored legacy codebases for 20% better efficiency.
-<br />
+
+
+
+
 • Collaborated in Agile sprints for rapid delivery.
 </li>
 </ul>
@@ -171,9 +188,6 @@ Foundation in Computer Applications & Math.
 </tr>
 </table>
 </div>
-
-<br />
-<br />
 
 <!-- PROJECTS SECTION - PREMIUM CARDS WITH DEEP DIVES -->
 
@@ -209,96 +223,91 @@ Foundation in Computer Applications & Math.
 </tr>
 </table>
 
-<br />
-<details>
-<summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
-<br />
-<ul>
-<li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
-<li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
-<li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
-<li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
-</ul>
-</details>
+  <br />
+  
+  <details>
+    <summary><b>🛠️ Click to View Engineering Deep Dive</b></summary>
+    <br />
+    <ul>
+      <li><b>Micro-Modular Monolith:</b> Rejected microservices to eliminate network latency for the cognitive engine, ensuring sub-second AI responses.</li>
+      <li><b>Resilient AI Orchestration:</b> Implemented a <b>Round-Robin Key Rotation</b> strategy to handle API rate limits gracefully without downtime.</li>
+      <li><b>Hybrid Data Strategy:</b> Uses <b>PostgreSQL</b> for transactional integrity (Grades, Auth) and <b>Firebase</b> for ephemeral real-time states (Whiteboards).</li>
+      <li><b>Anti-Hallucination:</b> Enforces a strict grounding policy where the AI can only cite from the user's uploaded TF-IDF vector index.</li>
+    </ul>
+  </details>
 </td>
 <td width="20"></td>
 <td width="400" valign="top">
+  <!-- EXPENSE TRACKER CARD -->
+  <h3 align="center">💰 Expense Tracker</h3>
+  <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+    <img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
+  </a>
+  <br />
+  <b><i>"Secure. Visual. Insightful."</i></b>
+  <br />
+  Built with the **MERN Stack**, this dashboard features complex data visualization using Chart.js and bank-grade **JWT Authentication**.
+  <br />
+  <details>
+    <summary><b>⚙️ Tech Details</b></summary>
+    <ul>
+      <li><b>Security:</b> HttpOnly Cookies & JWT.</li>
+      <li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
+    </ul>
+  </details>
+  <br />
+  <div align="center">
+     <a href="https://github.com/DhanushHebbar/ExpenseTracker">
+      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </div>
+  
+  <br /><hr /><br />
 
-<!-- EXPENSE TRACKER CARD -->
-
-<h3 align="center">💰 Expense Tracker</h3>
-<a href="https://github.com/DhanushHebbar/ExpenseTracker">
-<img src="assets/expense.png" alt="Financial Analytics" width="100%" style="border-radius: 8px;" />
-</a>
-<br />
-<b><i>"Secure. Visual. Insightful."</i></b>
-<br />
-Built with the MERN Stack, this dashboard features complex data visualization using Chart.js and bank-grade JWT Authentication.
-<br />
-<details>
-<summary><b>⚙️ Tech Details</b></summary>
-<ul>
-<li><b>Security:</b> HttpOnly Cookies & JWT.</li>
-<li><b>Performance:</b> MongoDB Aggregation Pipelines for real-time analytics.</li>
-</ul>
-</details>
-<br />
-<div align="center">
-<a href="https://github.com/DhanushHebbar/ExpenseTracker">
-<img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-</a>
-</div>
-
-<br /><hr /><br />
-
-<!-- VOCAB BUILDER CARD -->
-
-<h3 align="center">📚 Vocab Builder</h3>
-<a href="https://github.com/DhanushHebbar/VocabBuilder">
-<img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
-</a>
-<br />
-<b><i>"Gamified Learning."</i></b>
-<br />
-Leverages Framer Motion for 60FPS animations and local storage persistence for offline capability.
-<br />
-<div align="center">
-<a href="https://github.com/DhanushHebbar/VocabBuilder">
-<img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
-</a>
-</div>
+  <!-- VOCAB BUILDER CARD -->
+  <h3 align="center">📚 Vocab Builder</h3>
+  <a href="https://github.com/DhanushHebbar/VocabBuilder">
+    <img src="assets/vocab.png" alt="Interactive Learning" width="100%" style="border-radius: 8px;" />
+  </a>
+  <br />
+  <b><i>"Gamified Learning."</i></b>
+  <br />
+  Leverages **Framer Motion** for 60FPS animations and local storage persistence for offline capability.
+  <br />
+  <div align="center">
+     <a href="https://github.com/DhanushHebbar/VocabBuilder">
+      <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </div>
 </td>
+
+
 </tr>
 </table>
 </div>
-
-<br />
-<br />
 
 <!-- STATS & ACTIVITY SECTION -->
 
 <h3 align="center">📊 <b>GitHub Stats</b></h3>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDhanushHebbar%26theme%3Dtokyonight%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-<br /><br />
+<img src="https://nirzak-streak-stats.vercel.app/?user=DhanushHebbar&theme=dark&hide_border=false" />
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDhanushHebbar%26theme%3Dtokyonight%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushHebbar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br />
 
 <h3 align="center">✍️ <b>Random Dev Quote</b></h3>
 <div align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
-<br />
 
 <h3 align="center">🔝 <b>Top Contributed Repo</b></h3>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3DDhanushHebbar%26limit%3D5%26theme%3Dtokyonight%26combine_all_yearly_contributions%3Dtrue" />
+<img src="https://github-contributor-stats.vercel.app/api?username=DhanushHebbar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br />
